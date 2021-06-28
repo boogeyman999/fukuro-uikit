@@ -1,1 +1,0 @@
-UIKit for fukuro projects
